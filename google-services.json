@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687693576730",
+    "firebase_url": "https://projet-1a001-default-rtdb.firebaseio.com",
+    "project_id": "projet-1a001",
+    "storage_bucket": "projet-1a001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687693576730:android:2028018a86c1192d216fa3",
+        "android_client_info": {
+          "package_name": "com.pointage.weekend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1BJe9fMiHyXR4dHaCGifcipr274LHeQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
