@@ -1,0 +1,26 @@
+name: pointage_app
+description: Application de pointage chantier anti-fraude.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_database: ^10.4.0
+  geolocator: ^10.1.0
+  mobile_scanner: ^5.0.0
+  qr_flutter: ^4.1.0
+  device_info_plus: ^9.1.2
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
